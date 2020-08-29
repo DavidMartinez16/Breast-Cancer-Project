@@ -68,7 +68,7 @@ _Plot scatters of differente features_
 
 ## Model Building
 
-First, i split the data into train and test sets with a test size of 20 %. Then i tried four different models and evaluated them using the score function.
+First , I split the data into train and test sets with a test size of 20 %. Then i tried four different models and evaluated them using the score function.
 
 The models i tried are the following :
 * Logistic Regression
