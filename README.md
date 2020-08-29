@@ -64,4 +64,44 @@ _Verify the correlation between the features with the diagnosis_
 
 _Plot scatters of differente features_
 
+![scat](https://user-images.githubusercontent.com/63115543/91640877-58d00880-e9e6-11ea-9aaa-6b8255341b6c.jpg)
+
+## Model Building
+
+First, i split the data into train and test sets with a test size of 20 %. Then i tried four different models and evaluated them using the score function.
+
+The models i tried are the following :
+* Logistic Regression
+* Support Vector Machines
+* K-Nearest Neighbors
+* Decision Trees
+
+## Performance 
+
+### Logistic Regression
+* F1 Score : 0.9824561403508771 
+* Accuracy : 0.9824561403508771 
+* Sensibility : 0.9523809523809523 
+* Specifity : 1.0
+
+### Support Vector Machines
+* F1 Score : 0.956140350877193 
+* Accuracy : 0.956140350877193 
+* Sensibility : 0.8809523809523809 
+* Specifity : 1.0 
+
+### K-Nearest Neighbors
+* F1 Score : 0.9385964912280702 
+* Accuracy : 0.9385964912280701 
+* Sensibility : 0.8571428571428571 
+* Specifity : 0.9861111111111111 
+
+### Decision Trees
+* F1 Score : 0.9473684210526315 
+* Accuracy : 0.9473684210526315 
+* Sensibility : 0.9047619047619048 
+* Specifity : 0.9722222222222221 
+
+_As you can see, the model with the best performance is the Logistic Regression, following the confusion matrix and the ROC Curve of this model_
+
 
