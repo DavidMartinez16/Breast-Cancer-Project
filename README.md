@@ -3,8 +3,8 @@
 _This is a data science project that uses the breast cancer dataset, the objective is to predict the diagnosis by analyzing features of the tumor such as area, perimeter, radius, smoothness, compactness, concavity, symmetry, texture, etc_
 
 
-* Created a tool that estimates whether a tumor is malignant of benign by analyzing different features of itself
 * [Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - The used dataset was downloaded from the kaggle repository
+* Created a tool that estimates whether a tumor is malignant of benign by analyzing different features of itself
 * Models such as Logistic Regression, Support Vector Machines, K-Nearest Neighbors and Decision Trees obtained the best performance, with accuracy values greater than 90 % and F1-score greater than 93 %
 
 ## Code and Resources Used 🛠️
@@ -103,5 +103,9 @@ The models i tried are the following :
 * Specifity : 0.9722222222222221 
 
 _As you can see, the model with the best performance is the Logistic Regression, following the confusion matrix and the ROC Curve of this model_
+
+![lrm](https://user-images.githubusercontent.com/63115543/91641183-55d61780-e9e8-11ea-9a74-a868cb5ea791.jpg)
+
+![roclr](https://user-images.githubusercontent.com/63115543/91641179-52429080-e9e8-11ea-9187-c07fffa8753b.jpg)
 
 
