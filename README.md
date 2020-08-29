@@ -60,7 +60,7 @@ _The following are the features contained in the Breast Cancer Wisconsin Dataset
 
 _Verify the correlation between the features with the diagnosis_
 
-
+![Corrrelations](https://user-images.githubusercontent.com/63115543/91640801-c9c2f080-e9e5-11ea-9bf3-816049f4d749.jpg)
 
 _Plot scatters of differente features_
 
